@@ -1,5 +1,12 @@
 import Image from "next/image";
-import { Facebook, Github, Instagram, Linkedin, Mail, Twitter } from "lucide-react";
+import {
+  Facebook,
+  Github,
+  Instagram,
+  Linkedin,
+  Mail,
+  Twitter,
+} from "lucide-react";
 import Link from "next/link";
 
 interface HexagonProfileProps {
@@ -10,10 +17,19 @@ interface HexagonProfileProps {
   profileLink?: string; // Redirect URL when clicking on hexagon
 }
 
-export function HexagonProfile({ name, image, socialLinks = false, profileLink = "#" }: HexagonProfileProps) {
+export function HexagonProfile({
+  name,
+  role,
+  image,
+  socialLinks = false,
+  profileLink = "#",
+}: HexagonProfileProps) {
   return (
     <div className="flex flex-col items-center gap-2">
-      <Link href={profileLink} className="relative aspect-square w-full max-w-[240px] overflow-hidden hexagon group">
+      <Link
+        href={profileLink}
+        className="relative aspect-square w-full max-w-[240px] overflow-hidden hexagon group"
+      >
         {/* Hexagon Image */}
         <Image
           src={image || "/placeholder.svg"}
@@ -24,7 +40,11 @@ export function HexagonProfile({ name, image, socialLinks = false, profileLink =
 
         {/* Name Overlay (Appears on Hover) */}
         <div className="absolute inset-0 flex items-center justify-center bg-black bg-opacity-50 opacity-0 transition-opacity duration-300 group-hover:opacity-100">
-          <span className="text-white font-semibold text-lg">{name}</span>
+          <div className="text-white font-semibold text-lg text-center">
+            <span>{name}</span>
+            <br />
+            <span>{role}</span>
+          </div>
         </div>
       </Link>
 
