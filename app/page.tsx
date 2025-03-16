@@ -7,56 +7,56 @@ import { HexagonProfile } from "@/components/hexagon-profile";
 
 const teamMembers = [
   {
-    name: "Girl Start",
-    image: "https://i.pravatar.cc/150?img=2",
-    role: "Frontend",
+    name: "Juhi Kumari",
+    image: "https://res.cloudinary.com/dt5913iha/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1742125676/WhatsApp_Image_2025-03-16_at_14.44.11_5c63c7ce_i0uylq.jpg",
+    role: "Frontend Developer",
     profileLink:
       "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
-    name: "Sekh Sanam",
+    name: "Kumari",
     image: "https://i.pravatar.cc/150?img=3",
-    role: "Backend",
+    role: "Backend Developer",
     profileLink:
       "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
-    name: "Prabhash Kumar ",
+    name: "Kumari",
     image: "https://i.pravatar.cc/150?img=4",
     role: "UI/UX Designer",
     profileLink:
       "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
-    name: "Vikash Kumar",
+    name: "Kumari",
     image: "https://i.pravatar.cc/150?img=5",
     role: "Security Anlytics",
     profileLink:
       "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
-    name: "Amit Kumar",
+    name: "Kumari",
     image: "https://i.pravatar.cc/150?img=6",
     role: "Devops",
     profileLink:
       "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
-    name: "Anjali Verma",
+    name: "Kumari",
     image: "https://i.pravatar.cc/150?img=7",
     role: "Cyber Security",
     profileLink:
       "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
-    name: "Shreya Singh",
+    name: "Kumari",
     image: "https://i.pravatar.cc/150?img=8",
     role: "Social Media Markting Ads",
     profileLink:
       "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
-    name: "Girl End",
+    name: "Kumari",
     image: "https://i.pravatar.cc/150?img=1",
     role: "Developer",
     profileLink:
@@ -73,19 +73,19 @@ const teamMembers = [
   {
     name: "Rajesh Kumar",
     image: "https://i.pravatar.cc/150?img=2",
-    role: "Frontend",
+    role: "Frontend Developer",
     profileLink:
       "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
-    name: "Sekh Sanam",
+    name: "Kumar",
     image: "https://i.pravatar.cc/150?img=3",
-    role: "Backend",
+    role: "Backend Developer",
     profileLink:
       "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
-    name: "Prabhash ",
+    name: "Kumar",
     image: "https://i.pravatar.cc/150?img=4",
     role: "Devops",
     profileLink:
@@ -106,28 +106,28 @@ const teamMembers = [
       "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
-    name: "Anjali Verma",
+    name: "Kumar",
     image: "https://i.pravatar.cc/150?img=7",
     role: "Social Media Markting Ads",
     profileLink:
       "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
-    name: "Shreya Singh",
+    name: "Kumar",
     image: "https://i.pravatar.cc/150?img=8",
     role: "Developer",
     profileLink:
       "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
-    name: "Anjali Verma",
+    name: "Kumar",
     image: "https://i.pravatar.cc/150?img=7",
     role: "Developer",
     profileLink:
       "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
-    name: "Shreya Singh",
+    name: "Kumar Sharma",
     image: "https://i.pravatar.cc/150?img=8",
     role: "Developer",
     profileLink:
