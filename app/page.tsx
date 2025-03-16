@@ -10,110 +10,128 @@ const teamMembers = [
     name: "Girl Start",
     image: "https://i.pravatar.cc/150?img=2",
     role: "Frontend",
-    profileLink: "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
+    profileLink:
+      "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
     name: "Sekh Sanam",
     image: "https://i.pravatar.cc/150?img=3",
     role: "Backend",
-    profileLink: "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
+    profileLink:
+      "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
     name: "Prabhash Kumar ",
     image: "https://i.pravatar.cc/150?img=4",
     role: "UI/UX Designer",
-    profileLink: "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
+    profileLink:
+      "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
     name: "Vikash Kumar",
     image: "https://i.pravatar.cc/150?img=5",
     role: "Security Anlytics",
-    profileLink: "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
+    profileLink:
+      "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
     name: "Amit Kumar",
     image: "https://i.pravatar.cc/150?img=6",
     role: "Devops",
-    profileLink: "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
+    profileLink:
+      "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
     name: "Anjali Verma",
     image: "https://i.pravatar.cc/150?img=7",
     role: "Cyber Security",
-    profileLink: "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
+    profileLink:
+      "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
     name: "Shreya Singh",
     image: "https://i.pravatar.cc/150?img=8",
     role: "Social Media Markting Ads",
-    profileLink: "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
+    profileLink:
+      "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
     name: "Girl End",
     image: "https://i.pravatar.cc/150?img=1",
     role: "Developer",
-    profileLink: "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
+    profileLink:
+      "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
     name: "Vivek Sharma",
     image:
       "https://i.postimg.cc/2jLhjMGD/Whats-App-Image-2025-03-16-at-12-00-11-259e43af.jpg",
     role: "UI/UX Designer",
-    profileLink: "https://postimg.cc/NLY5pNZJ/99f576ad",
+    profileLink:
+      "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
     name: "Rajesh Kumar",
     image: "https://i.pravatar.cc/150?img=2",
     role: "Frontend",
-    profileLink: "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
+    profileLink:
+      "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
     name: "Sekh Sanam",
     image: "https://i.pravatar.cc/150?img=3",
     role: "Backend",
-    profileLink: "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
+    profileLink:
+      "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
     name: "Prabhash ",
     image: "https://i.pravatar.cc/150?img=4",
     role: "Devops",
-    profileLink: "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
+    profileLink:
+      "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
     name: "Vikash Kumar",
     image: "https://i.pravatar.cc/150?img=5",
     role: "Cyber Security",
-    profileLink: "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
+    profileLink:
+      "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
     name: "Amit Kumar",
     image: "https://i.pravatar.cc/150?img=6",
     role: "Security Analytics",
-    profileLink: "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
+    profileLink:
+      "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
     name: "Anjali Verma",
     image: "https://i.pravatar.cc/150?img=7",
     role: "Social Media Markting Ads",
-    profileLink: "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
+    profileLink:
+      "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
     name: "Shreya Singh",
     image: "https://i.pravatar.cc/150?img=8",
     role: "Developer",
-    profileLink: "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
+    profileLink:
+      "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
     name: "Anjali Verma",
     image: "https://i.pravatar.cc/150?img=7",
     role: "Developer",
-    profileLink: "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
+    profileLink:
+      "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
     name: "Shreya Singh",
     image: "https://i.pravatar.cc/150?img=8",
     role: "Developer",
-    profileLink: "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
+    profileLink:
+      "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
 ];
 
@@ -141,10 +159,12 @@ export default function Home() {
             if they could become something more."
           </p>
           <p className="mt-8 max-w-3xl text-base sm:text-lg">
-            Unlike the Avengers origin story, 2 people—Satyam and Rajesh—thought
-            of creating this little group of intellectuals so that online
-            college would be a bit more fun than the usual drab lectures. And
-            guys, we are glad they thought of doing so.
+            TPC Madhepura Tech Team is a passionate group of developers,
+            designers, and tech enthusiasts dedicated to innovation. We
+            specialize in web and mobile development, UI/UX design, and emerging
+            technologies to create impactful digital solutions. Our mission is
+            to collaborate, learn, and build cutting-edge applications that
+            solve real-world problems.
           </p>
           <p className="mt-8 text-lg italic">— Developers</p>
         </div>
