@@ -14,8 +14,8 @@ const teamMembers = [
       "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
-    name: "Kumari",
-    image: "https://i.pravatar.cc/150?img=3",
+    name: "Muskan Raj",
+    image: "https://res.cloudinary.com/dt5913iha/image/upload/v1742140459/WhatsApp_Image_2025-03-16_at_21.18.45_f3dcdf28_yzuyv9.jpg",
     role: "Backend Developer",
     profileLink:
       "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
