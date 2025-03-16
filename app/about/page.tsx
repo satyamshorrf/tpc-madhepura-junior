@@ -10,12 +10,12 @@ export default function AboutPage() {
 
       <section className="py-16">
         <div className="container mx-auto px-4">
-          <SectionTitle>TPC Madhepura</SectionTitle>
+          <SectionTitle>TPC Madhepura Tech Team</SectionTitle>
 
           <div className="relative mx-auto mb-12 aspect-video w-full max-w-4xl overflow-hidden rounded-lg">
             <Image
-              src="/placeholder.svg?height=600&width=1200&text=Group+Photo"
-              alt="TPC Madhepura Team"
+              src="https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b"
+              alt="TPC Madhepura Tech Team"
               fill
               className="object-cover"
             />

@@ -25,7 +25,7 @@ export function Footer() {
             <Github className="h-6 w-6 text-white hover:text-gray-300" />
           </Link>
         </div>
-        <p className="text-center text-sm text-gray-400">© 2024 TPC MADHEPURA. All rights reserved.</p>
+        <p className="text-center text-sm text-gray-400">© 2025 TPC MADHEPURA. All rights reserved.</p>
       </div>
     </footer>
   )
