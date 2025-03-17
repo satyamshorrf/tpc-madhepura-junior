@@ -21,29 +21,29 @@ const teamMembers = [
       "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
-    name: "Kumari",
-    image: "https://i.pravatar.cc/150?img=4",
+    name: "Swati Kumari",
+    image: "https://res.cloudinary.com/dt5913iha/image/upload/v1742191350/WhatsApp_Image_2025-03-17_at_04.31.48_9576be58_frwn0r.jpg",
     role: "UI/UX Designer",
     profileLink:
       "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
-    name: "Kumari",
-    image: "https://i.pravatar.cc/150?img=5",
+    name: "Nikita bardhan",
+    image: "https://res.cloudinary.com/dt5913iha/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1742190756/WhatsApp_Image_2025-03-17_at_08.29.58_1988a6af_hjogf2.jpg",
     role: "Security Anlytics",
     profileLink:
       "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
-    name: "Kumari",
-    image: "https://i.pravatar.cc/150?img=6",
+    name: "Swati Kumari",
+    image: "https://res.cloudinary.com/dt5913iha/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1742190315/WhatsApp_Image_2025-03-17_at_08.35.42_b1485671_yj3otd.jpg",
     role: "Devops",
     profileLink:
       "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
-    name: "Kumari",
-    image: "https://i.pravatar.cc/150?img=7",
+    name: "Shilpi Kumari",
+    image: "https://res.cloudinary.com/dt5913iha/image/upload/v1742191340/WhatsApp_Image_2025-03-17_at_08.49.51_90246017_pc2fhs.jpg",
     role: "Cyber Security",
     profileLink:
       "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",

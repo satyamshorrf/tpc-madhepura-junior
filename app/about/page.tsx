@@ -27,12 +27,12 @@ export default function AboutPage() {
             </p>
 
             <p>
-              Unlike the Avengers origin story, 2 people: Satyam and Rajesh thought of creating this little group of
-              intellectuals so that online college would be a bit more fun than the usual drab lectures. And guys, we
-              are glad they thought of doing so. Gradually, others started to join in: Prabhash, Sekh Sanam, Kajal,
-              Pratik, Sonu, Kajal, Sumit, and Aditya, and thus began the journey of the Decodians, and to be honest, it
-              is quite a privilege to be a part of this little family that we have here, where we look after one
-              another.
+            TPC Madhepura Tech Team is a passionate group of developers,
+            designers, and tech enthusiasts dedicated to innovation. We
+            specialize in web and mobile development, UI/UX design, and emerging
+            technologies to create impactful digital solutions. Our mission is
+            to collaborate, learn, and build cutting-edge applications that
+            solve real-world problems.
             </p>
 
             <p className="mt-8 text-right text-xl italic">— Developers</p>
