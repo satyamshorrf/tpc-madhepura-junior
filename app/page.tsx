@@ -49,8 +49,8 @@ const teamMembers = [
       "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
   },
   {
-    name: "Kumari",
-    image: "https://i.pravatar.cc/150?img=8",
+    name: "Chhavi Kumari",
+    image: "https://res.cloudinary.com/dt5913iha/image/upload/v1742288548/WhatsApp_Image_2025-03-18_at_13.22.14_292e9ddc_xjqtux.jpg",
     role: "Social Media Markting Ads",
     profileLink:
       "https://github.com/user-attachments/assets/c6757196-c8cf-4c5f-92da-a7bad6cc828b",
